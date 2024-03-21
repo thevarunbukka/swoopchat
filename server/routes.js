@@ -1,0 +1,24 @@
+const express = require("express");
+const authenticationRoutes = require("./routes/Authentication");
+const editProfileRoutes = require("./routes/EditProfile");
+const settingsRoutes = require("./routes/Settings");
+const postRoutes = require("./routes/Post");
+const profileRoutes = require("./routes/Profile");
+const searchRoutes = require("./routes/Search");
+const followersFollowingsRoutes = require("./routes/FollowersFollowings");
+const notificationsRoutes = require("./routes/Notifications");
+const activityRoutes = require("./routes/Activity");
+const chatRoutes = require("./routes/Chat");
+const router = express.Router();
+
+router.use("/authentication", authenticationRoutes);
+router.use("/edit-profile", editProfileRoutes);
+router.use("/settings", settingsRoutes);
+router.use("/post", postRoutes);
+router.use("/profile", profileRoutes);
+router.use("/search", searchRoutes);
+router.use("/followers-followings", followersFollowingsRoutes);
+router.use("/notifications", notificationsRoutes);
+router.use("/activity", activityRoutes);
+router.use("/chat", chatRoutes);
+module.exports = router;
