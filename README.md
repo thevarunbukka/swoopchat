@@ -75,5 +75,6 @@ Below are the screenshots of the mobile application:
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/24.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/25.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/26.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
-  
+
+  <center><strong>Author Varun Bukka</strong></center>
 </div>
