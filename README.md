@@ -29,22 +29,51 @@ The server (backend) for the application is developed using Node.js and Express.
 Below are the screenshots of the mobile application:
 
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/2.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/3.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/4.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/5.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/6.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/7.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/8.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.0.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.2.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.3.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.4.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.5.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.6.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/10.0.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/10.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/10.2.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/11.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/12.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/13.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/14.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/15.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/16.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/17.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/18.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/19.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/19.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/19.2.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/20.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/21.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.2.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.3.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.4.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.5.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.6.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.7.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/23.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/23.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/24.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/25.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/26.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   
-  <!-- Add more screenshots as needed -->
 </div>
