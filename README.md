@@ -67,7 +67,10 @@ Below are the screenshots of the mobile application:
    <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.5.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
    <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.6.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
    <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/22.7.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/27.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/23.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/28.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
+  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/29.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/23.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/24.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/25.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
