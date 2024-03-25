@@ -1,6 +1,8 @@
 # SWOOPCHAT - Full-Stack Social Media Application
 
-SWOOPCHAT is a dynamic multi-user social media platform designed for users to share their memories (image & text), thoughts (text), and moments (image & text) which are only available for 24 hours. Users can search other users, view their profile, follow them, manage their followers and followings, edit their profile details, clear search history, manage their notifications, and view their liked and saved content. The feed for the user is shown based on the content posted by their followings. This application also features real-time chatting where users can send text and image content with a replying feature. Users can edit & delete the sent messages.
+It is dynamic multi-user social media platform designed for users to share their memories (image & text), thoughts (text), and moments (image & text) which are only for 24 hours. Users can search other users, view their profile, follow them. Users can manage their followers and followings, edit their profile details, clear search history, manage their notifications, view their liked and saved content. Feed for the user is shown based on the content posted by his followings. This application has real time chatting where users can send text and image content with replying feature. Users can edit & delete the sent messages.
+Frontend mobile application is developed using React Native which is a cross platform framework for developing native mobile applications. Redux.Js is used for app wide state management.
+Server ( Backend ) for the application is developed using Node.Js & Express.Js, MongoDB is the database used. The server is built with REST API’s. Authentication is done through JWT web tokens. socket.io library is used to implement chatting for real time communication.
 
 ## Features
 
