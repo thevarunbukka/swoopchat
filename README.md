@@ -37,7 +37,6 @@ Below are the screenshots of the mobile application:
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/6.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/7.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/8.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
-  <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.0.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.1.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
   <img src="https://github.com/thevarunbukka/swoopchat/blob/main/screenshots/9.2.PNG" alt="Screenshot" style="display: inline-block; margin: 10px; width: 150px;">
