@@ -29,8 +29,8 @@ The server (backend) for the application is developed using Node.js and Express.
 Below are the screenshots of the mobile application:
 
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
-  <img src="https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
+  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 1" style="display: inline-block; margin: 10px; max-width: 200px;">
+  <img src="![Alt text] (https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/6601215/1089262461242572804/1089262461242572804.jpg)" alt="Screenshot 2" style="display: inline-block; margin: 10px; max-width: 200px;">
   
   <!-- Add more screenshots as needed -->
 </div>
